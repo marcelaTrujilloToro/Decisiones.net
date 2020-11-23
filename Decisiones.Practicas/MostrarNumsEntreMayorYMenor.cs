@@ -17,6 +17,7 @@ namespace Decisiones.Practicas
             int num2 = PedirNumero();
             int resultado = Restar(num1, num2);
             MostrarNumeros(resultado, num1, num2);
+            Console.WriteLine("");
             
 
         }
